@@ -26,7 +26,7 @@
 | Miguel Adrian Gabriel Morales
 | Eduardo Munguia | Push y mi anotación del curso|
 | Christian Ricardo Torres | push y mi anotación del curso|
-| Luis Adrian Lara Sosa
+| Luis Adrian Lara Sosa 
 | Axael Zelanda salazar
 | Ivan Gildardo Zarate Resendiz
 | Antonio Montiel Patiño
@@ -41,6 +41,7 @@
 
 
 <details><summary><b>Crear Carpetas</b></summary>
+
 ## Crear_carpetas.sh 
 
 ```
@@ -75,7 +76,7 @@ crear_directorios;
 ```
 
 <kbd>
- <img src="imagenes/ProyectoFinal1.png" width="950">
+ <img src="imagenes/ProyectoFinal1.PNG" width="950">
  </kbd>
 
 </details>
@@ -124,6 +125,10 @@ funcionvacios
 ```
 </details>
 
+<kbd>
+ <img src="imagenes/Carpeta_vacia.jpg" width="950">
+ </kbd>
+
 
 <details><summary><b>Consintiendo al profe</b></summary>
 
@@ -155,12 +160,11 @@ else
 fi
 ```
 
-<kbd>
- <img src="imagenes/Carpeta_vacia.jpg" width="950">
- </kbd>
+
 
 
 ### Comentarios.sh
+
 <kbd>
 <img src="imagenes/comentarios.jpg" width="950">
 </kbd>
@@ -170,7 +174,7 @@ fi
 #### Trabajo en equipo
 Comunicación con otros equipos:
 <kbd>
- <img src="imagenes/ProyectoFinal2.png" width="950">
+ <img src="imagenes/ProyectoFinal2.PNG" width="950">
  </kbd>
  
 
