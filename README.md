@@ -82,7 +82,7 @@ crear_directorios;
 </details>
 
 
-<details><summary><b>Crear Carpetas</b></summary>
+<details><summary><b>Logs</b></summary>
 
 ## Logging.sh
 
@@ -123,11 +123,14 @@ funciondatos
 funcionvacios
 
 ```
-</details>
 
 <kbd>
  <img src="imagenes/Carpeta_vacia.jpg" width="950">
  </kbd>
+
+</details>
+
+
 
 
 <details><summary><b>Consintiendo al profe</b></summary>
