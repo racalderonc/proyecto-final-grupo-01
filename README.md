@@ -4,8 +4,8 @@
 
 <div align="center">
   
-|  Colaborador |              | Actividad |
-| ------------ | ------------ | ------------ |
+|  Colaborador |   Actividad  |  
+| ------------ | ------------ | 
 | Luis Alfredo Bautista Posada| ¡¡Aprogramar!! |
 | Ruben Alejandro Calderon Corona 
 | Luis Alfredo Bautista Posadas 
