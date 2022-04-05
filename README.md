@@ -166,7 +166,7 @@ fi
 
 
 
-### Comentarios.sh
+## Consintiendo_al_profe.sh
 
 <kbd>
 <img src="imagenes/comentarios.jpg" width="950">
