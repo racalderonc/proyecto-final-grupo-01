@@ -25,7 +25,7 @@
 | Edgar Augusto Almonasi Santos
 | Miguel Adrian Gabriel Morales
 | Eduardo Munguia
-| Christian Ricardo Torres
+| Christian Ricardo Torres | push y mi anotación del curso|
 | Luis Adrian Lara Sosa
 | Axael Zelanda salazar
 | Ivan Gildardo Zarate Resendiz
