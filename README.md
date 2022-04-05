@@ -18,7 +18,7 @@
 | Diana Ortega Muñoz
 | Maria Elena Coronado Rodriguez
 | Evelin Cheyen Zepeda Hernández | Readme |
-| Karla Ivonne Cuevas
+| Karla Ivonne Cuevas | Push y mi anotación del curso |
 | Daniel Amador
 | Hector Francisco Ulloa Muñoz
 | Juan Carlos Martinez
