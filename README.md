@@ -6,9 +6,8 @@
   
 |  Colaborador |   Actividad  |  
 | ------------ | ------------ | 
-| Luis Alfredo Bautista Posada| ¡¡Aprogramar!!, Consintiendo al profe |
+| Luis Alfredo Bautista Posadas| ¡¡Aprogramar!!, Consintiendo al profe |
 | Ruben Alejandro Calderon Corona 
-| Luis Alfredo Bautista Posadas 
 | Rubén Alejandro Calderón 
 | Ariana Garcia
 | Enrique Guzmán Cázares
