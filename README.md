@@ -45,7 +45,7 @@
  <img src="imagenes/Carpeta_vacia.jpg" width="950">
 
 #### Trabajo en equipo
- <img src="imagenes/download.jpg" width="950
+ <img src="imagenes/download.jpg" width="950">
  
 
 
