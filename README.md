@@ -6,7 +6,7 @@
   
 |  Colaborador |   Actividad  |  
 | ------------ | ------------ | 
-| Luis Alfredo Bautista Posada| ¡¡Aprogramar!! |
+| Luis Alfredo Bautista Posada| ¡¡Aprogramar!!, Consintiendo al profe |
 | Ruben Alejandro Calderon Corona 
 | Luis Alfredo Bautista Posadas 
 | Rubén Alejandro Calderón 
