@@ -12,7 +12,7 @@
 | Enrique Guzmán Cázares
 | Diana Ortega Muñoz
 | Maria Elena Coronado Rodriguez
-| Evelin Cheyen Zepeda Hernández
+| Evelin Cheyen Zepeda Hernández | Readme |
 | Karla Ivonne Cuevas
 | Daniel Amador
 | Hector Francisco Ulloa Muñoz
