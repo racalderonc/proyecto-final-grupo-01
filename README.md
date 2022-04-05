@@ -33,4 +33,4 @@
  </div align="center">
 
  ### Evidencia
- <img src="images/comentarios.jpg" width="450">
+ <img src="imagenes/comentarios.jpg" width="450">
