@@ -24,7 +24,7 @@
 | Juan Carlos Martinez
 | Edgar Augusto Almonasi Santos
 | Miguel Adrian Gabriel Morales
-| Eduardo Munguia
+| Eduardo Munguia | Push y mi anotación del curso|
 | Christian Ricardo Torres | push y mi anotación del curso|
 | Luis Adrian Lara Sosa
 | Axael Zelanda salazar
