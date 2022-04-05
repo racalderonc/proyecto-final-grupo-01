@@ -44,7 +44,7 @@
 #### Consintiendo al profe
  <img src="imagenes/Carpeta_vacia.jpg" width="950">
 
-<p align="center">
+#### Trabajo en equipo
+ <img src="imagenes/donwload.jpg" width="950
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoworkingfy.com%2Ftrabajo-en-equipo%2F&psig=AOvVaw0ddswsSovflE27w3vxFtrZ&ust=1649256824042000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJjn-cuW_fYCFQAAAAAdAAAAABAD)
-</p>
+
