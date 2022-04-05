@@ -1,5 +1,6 @@
 #!/bin/bash
 # grupo-##-fecha-hora.log
+#Programa que guarda en el log que carpetas contienen un archivo no vacio
 
 ARCHIVO=grupo-01-$(date +%d-%m-%Y)-$(date +%H:%M).log
 
