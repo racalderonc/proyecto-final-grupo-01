@@ -46,5 +46,6 @@
 
 #### Trabajo en equipo
  <img src="imagenes/download.jpg" width="950
+ 
 
 
