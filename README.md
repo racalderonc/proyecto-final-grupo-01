@@ -33,4 +33,10 @@
  </div align="center">
 
  ### Evidencia
+ #### Comentarios.sh
  <img src="imagenes/comentarios.jpg" width="950">
+
+#### Consintiendo al profe
+ <img src="images/carpeta_vacia.jpg" width="950">
+
+ 
